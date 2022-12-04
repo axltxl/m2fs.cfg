@@ -1,5 +1,5 @@
 # m2fs.cfg
-My [m2fs](github.com/axltxl/m2fs) configuration files using:
+My [m2fs](https://github.com/axltxl/m2fs) configuration files using:
 
 - [Arturia MiniLab mkII](https://novationmusic.com/en/launch/launchpad-x)
 - [Novation Launchpad X](https://www.arturia.com/products/hybrid-synths/minilab-mkii/overview)
